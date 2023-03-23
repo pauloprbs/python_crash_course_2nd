@@ -1,0 +1,6 @@
+In Python you can read texts from files and work with the strings
+In Python you can work with different data structures like lists and dictionaries
+In Python you can do simple and advanced math
+In Python you can take input from user
+In Python you can make games
+In Python you can do data analisys
